@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 @import url(_contact.css);
 @import url(_nav.css);
 @import url(_header.css);
@@ -7,12 +8,15 @@
 @import url(_teachers.css);
 @import url(_stat.css);
 @import url(_topic.css);
+@import url(_faq.css);
+@import url(_footer.css);
+
 @font-face {
     font-family: IranSans;
     src: url("../fonts/eot/IRANSansWeb.eot"),
       url("../fonts/woff/IRANSansWeb.woff") format("woff"),
       url("../fonts/woff2/IRANSansWeb.woff2") format("woff2");
-  }
+}
 @font-face {
 font-family: IranSansBold;
 src: url("../fonts/eot/IRANSansWeb_Bold.eot"),
